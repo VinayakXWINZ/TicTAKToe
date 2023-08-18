@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Music/Playlists"
+		},
+		{
+			"path": "../Aryan Art Offical"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Aryan Art Offical"
+	}
+}
